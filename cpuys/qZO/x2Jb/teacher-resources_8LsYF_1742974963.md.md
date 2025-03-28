@@ -7,5 +7,3 @@
 - New categories, or improvements to the existing ones are also welcome
 
 ## Quality Standards
-
-While we welcome new contributions, we don't want Awesome STEAM to become a dumping ground of loosely related content. Therefore, this list is not meant to hold everything, just the high quality stuff.
