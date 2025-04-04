@@ -20,5 +20,4 @@ apps/*
 docs/**
 packages/**
 !packages/next-auth
-!packages/core
 !packages/utils
