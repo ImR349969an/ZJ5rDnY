@@ -90,7 +90,6 @@ while ret:
     
     cv2.putText(frame, "CLEAR", (39, 23), cv2.FONT_HERSHEY_SIMPLEX,
                 0.5, (0, 0, 0), 2, cv2.LINE_AA)
-    cv2.putText(frame, "BLUE", (165, 23), cv2.FONT_HERSHEY_SIMPLEX,
                 0.5, (0, 0, 0), 2, cv2.LINE_AA)
     cv2.putText(frame, "GREEN", (278, 23), cv2.FONT_HERSHEY_SIMPLEX,
                 0.5, (0, 0, 0), 2, cv2.LINE_AA)
