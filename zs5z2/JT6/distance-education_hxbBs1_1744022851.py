@@ -110,7 +110,6 @@ while ret:
     # post-process the result
     if result.multi_hand_landmarks:
         landmarks = []
-        for handslms in result.multi_hand_landmarks:
             for lm in handslms.landmark:
                 lmx = int(lm.x * 1000)
                 lmy = int(lm.y * 800)
