@@ -109,7 +109,6 @@ create_doc () {
     echo ">>> exportMarkdown"
 #    ./gradlew exportMarkdown exportChangeLog exportContributors generateHTML htmlSanityCheck --stacktrace && ./copyDocs.sh
     echo ">>> currently disabled"
-  fi
 }
 
 publish_doc () {
