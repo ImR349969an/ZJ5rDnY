@@ -5,7 +5,6 @@
 % @date 12/18/2016
 % 
 % @input    img         hxwx3 image
-%           face        detected face struct
 % @output   BW          hxw binary mask for face
 %           faces_img   hxwx3 masked face
 %           ctl_pts     #landmarkx2 control points
